@@ -9,7 +9,7 @@ terraform {
   }
 
   cloud {
-    organization = "platform-engineering-demo"
+    organization = "platform-engineering-demo-088"
 
     workspaces {
       name = "cnc-logging-dev"
