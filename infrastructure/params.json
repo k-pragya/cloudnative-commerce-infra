@@ -1,0 +1,5 @@
+[
+  { "Key": "BucketPrefix", "Value": "cnc-logs" },
+  { "Key": "Environment", "Value": "dev" },
+  { "Key": "OwnerEmail", "Value": "kumaripragya9512@gmail.com" }
+]
